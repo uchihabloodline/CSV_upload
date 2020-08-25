@@ -12,7 +12,7 @@ CSV-Manager is used to work with external data, as in 'csv' files and view or sh
 <h3>Steps to run the project</h3>
 <ul>
   <li>clone the repository by copying the link from download button and using the command <code>git clone "REPOSITORY_ADDRESS" </code> in the desired directory.
-  <li>goto Root directory of the project in the command line, and run the command <code>npm install</code> to install all the modules. <bold>having node.js is a prerequisite</bold>
+  <li>goto Root directory of the project in the command line, and run the command <code>npm install</code> to install all the modules. <b>NOTE:- Having node.js is a prerequisite</b>
   <li>In the command line after everything is installed, run <code>npm start</code> to start the project on <code>localhost://8000</code>.
 </ul>
 
